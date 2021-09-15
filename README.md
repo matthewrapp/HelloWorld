@@ -6,7 +6,6 @@ The Hello World software is set up as a template and guide to set up future envi
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 Tools used to develop this software:
 
 - Mac OS
