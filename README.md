@@ -2,7 +2,7 @@
 
 The Hello World software is set up as a template and guide to set up future environments and repositories.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5LhMj0CeX8U)
 
 # Development Environment
 
